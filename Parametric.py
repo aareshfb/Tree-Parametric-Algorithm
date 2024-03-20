@@ -25,7 +25,7 @@ def argmin_g(Node,xr):
 def Para_Algo(Q,c,lam,M=5e3):
     # if (lam==np.zeros(len(c))).all():
         # return(-0.5*c.T@np.linalg.inv(Q)@c,-np.linalg.inv(Q)@c)
-    print('Setting Variable Bounds as:',M)
+    # print('Setting Variable Bounds as:',M)
     class N2:
         def __init__(self,name,Cx,Dx,f0):
             #object attributes
