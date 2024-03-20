@@ -1,4 +1,4 @@
-#Contents 
+# Contents 
 This folder contains the code the python files used to run the experiments in the paper.
 
 accelerometer.csv  - This file contains the data used for the experiments on real world data
