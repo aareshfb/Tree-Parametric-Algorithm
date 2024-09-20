@@ -8,7 +8,7 @@ Use line below to import the function:
 from Parametric import Para_Algo
 ```
 
-The function has *Para_Algo* requires 4 arguments.
+The function *Para_Algo* requires 4 arguments.
 
 *Q*: n x n dimention numpy array. This is the quadratic term in the objective function.
 
