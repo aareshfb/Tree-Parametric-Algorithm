@@ -1,1 +1,3 @@
-The output of the code in Experiments will save the .csv file in this folder
+This folder contains the results of the experiments performed in the paper.
+
+Section 5.1, Table 1: Vary_n.csv
