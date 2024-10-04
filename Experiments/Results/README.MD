@@ -11,7 +11,7 @@ Figure 12: SP2.csv
 Note, the file 'Vary_lam_rand.csv' studies the perfomance of the parametric algorithm with gurobi using a big-M formulation as well as a perspective formulation. 
 
 
-**Section 5.2** ,br />
+**Section 5.2** <br />
 Figure 13: Experiment1.xlsx
 Figure 14: Experiment2.xlsx
 Figure 15: Experiment4.xlsx
