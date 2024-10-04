@@ -12,7 +12,7 @@ Note, the file 'Vary_lam_rand.csv' studies the perfomance of the parametric algo
 
 
 **Section 5.2** <br />
-Figure 13: Experiment1.xlsx
-Figure 14: Experiment2.xlsx
-Figure 15: Experiment4.xlsx
-Figure 16: TIME_ONLINE.xlsx
+Figure 13: Experiment1.xlsx <br />
+Figure 14: Experiment2.xlsx <br />
+Figure 15: Experiment4.xlsx <br />
+Figure 16: TIME_ONLINE.xlsx <br />
