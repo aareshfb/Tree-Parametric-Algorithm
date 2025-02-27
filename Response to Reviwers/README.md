@@ -1,1 +1,1 @@
-This folder contains additional files requested by the reviewers.
+This folder contains the support documents for our response to the reviwers.
